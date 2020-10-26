@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gowri-silks": {
+      "hosting": {
+        "notification-angular": [
+          "gowri-silks"
+        ]
+      }
+    }
+  }
+}
